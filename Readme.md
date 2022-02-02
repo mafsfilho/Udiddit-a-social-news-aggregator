@@ -1,4 +1,4 @@
-Esse é o projeto final de SQL Nanodegree Program, oferecido pela Udacity.
+Esse é o projeto final do curso SQL Nanodegree Program, oferecido pela Udacity.
 
 Udiddit é, basicamente, uma rede de notícias sociais que foi feita às pressas e apresenta alguns problemas relacionados ao armazenamento dos dados. Nesse sentido, meu trabalho aqui é avaliar o banco de dados existente e fazer as alterações necessárias. Assim que essa parte for concluída, devo migrar os dados da antiga database.
 
